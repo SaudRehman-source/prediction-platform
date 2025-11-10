@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #0E1A2B;
+  color: #E0E7F1;
+  text-align: center;
+}
+
+header {
+  background-color: #1A263A;
+  padding: 1rem;
+}
+
+nav a {
+  color: #0FFFC1;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 2rem;
+}
